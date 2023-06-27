@@ -1,6 +1,6 @@
 import React, { useCallback, useEffect, useState } from "react";
 import { ProductType } from "../../types/productType";
-import { Grid, TextField } from "@mui/material";
+import { Grid } from "@mui/material";
 import ProductItem from "./product-item";
 import InfiniteScroll from "react-infinite-scroll-component";
 
